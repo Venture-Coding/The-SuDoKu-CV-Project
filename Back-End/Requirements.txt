@@ -1,0 +1,7 @@
+python - ofcourse :p
+pandas
+Pillow==7.1.2
+torchvision
+flask
+opencv-python
+scikit-image
